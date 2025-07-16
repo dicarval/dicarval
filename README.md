@@ -25,7 +25,7 @@ I'm **Diogo Carvalho Santos**, a programming student currently learning **C/C++*
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hbourlot&label=Profile%20views&color=0e75b6&style=flat" alt="dicarval" />
+  <img src="https://komarev.com/ghpvc/?username=dicarval&label=Profile%20views&color=0e75b6&style=flat" alt="dicarval" />
 </p>
 
 <p align="left">
