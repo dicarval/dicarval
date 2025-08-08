@@ -3,7 +3,7 @@
 I'm **Diogo Carvalho Santos**, a programming student currently working to level up my skills at [42 School Lisbon](https://42lisboa.com/).
 
 - 🌱 Currently diving deep into **C++**, **Docker** and exploring computer science fundamentals.
-- 🏫 Studying at **42 Lisboa**, a peer-to-peer coding school with a hands-on, project-based curriculum and learning by building, failing, and trying again.
+- 🏫 Studying at **42 Lisboa**, a peer-to-peer coding school with a hands-on, project-based curriculum and learning by building, failing and trying again.
 - ⚡ Transitioning from **financial audit** to **software development** has been one of the biggest challenges of my life, but also one of the best decisions, totally worth it.
 
 
