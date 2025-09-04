@@ -21,9 +21,3 @@ I'm **Diogo Carvalho Santos**, a programming student currently working to level 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicarval&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dicarval&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
