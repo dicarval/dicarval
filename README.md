@@ -41,7 +41,7 @@ I'm a programming student currently working to level up my skills at [42 School 
   
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dicarval&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dicarval&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dicarval&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=420" alt="Top Languages" />
 
 </div>
 
