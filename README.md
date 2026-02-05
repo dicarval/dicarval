@@ -53,3 +53,11 @@ I'm a programming student currently working to level up my skills at [42 School 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-c-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.c.santos10@gmail.com)
+
+---
+
+<div align="center">
+
+*Thanks for visiting!*
+
+</div>
