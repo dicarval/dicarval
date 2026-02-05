@@ -37,6 +37,7 @@ I'm a programming student currently working to level up my skills at [42 School 
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
   
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dicarval&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -48,6 +49,7 @@ I'm a programming student currently working to level up my skills at [42 School 
 ---
 
 ## 📫 Let's Connect
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-c-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.c.santos10@gmail.com)
