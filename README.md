@@ -1,16 +1,53 @@
-# 💫 About Me:
+<div align="center">
+  
+# 👋 Hi, I'm Diogo Carvalho Santos
 
-I'm **Diogo Carvalho Santos**, a programming student currently working to level up my skills at [42 School Lisbon](https://42lisboa.com/).
+### Software Developer | Problem Solver | Tech Enthusiast
 
-- 🌱 Currently diving deep into **C++**, **Docker** and exploring computer science fundamentals.
-- 🏫 Studying at **42 Lisboa**, a peer-to-peer coding school with a hands-on, project-based curriculum and learning by building, failing and trying again.
-- ⚡ Transitioning from **financial audit** to **software development** has been one of the biggest challenges of my life, but also one of the best, totally worth it.
+</div>
 
+---
 
- 📫 Connect:
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-c-santos)
+## 🚀 About Me
 
+I'm a programming student currently working to level up my skills at [42 School Lisbon](https://42lisboa.com/) and a passionate software developer with expertise in **systems programming**, **backend solutions**, and **containerization**. Currently exploring the world of APIs and the intersection between backend and frontend programming.
 
-## 💻 Code Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- 🎓 **42 Student**, currently in **Transcendece** project. 
+- 🌱 Currently diving deep into **C++, Docker, Java and exploring computer science fundamentals.**
+- ⚡ Crossing the bridge from **financial audit** to **software development**, came by the opportunity, stayed by the challenge.     
+- 🎯 Goal: Build efficient, scalable, and maintainable software.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4EAA25?style=for-the-badge&logo=springboot&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+<div align="center">
+  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dicarval&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dicarval&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-c-santos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.c.santos10@gmail.com)
