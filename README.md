@@ -12,7 +12,7 @@
 
 I'm a programming student currently working to level up my skills at [42 School Lisbon](https://42lisboa.com/) and a passionate software developer with expertise in **systems programming**, **backend solutions**, and **containerization**. Currently exploring the world of APIs and the intersection between backend and frontend programming.
 
-- 🎓 **42 Student**, currently in **Transcendece** project. 
+- 🎓 **42 Student**, currently in **Transcendence** project. 
 - 🌱 Currently diving deep into **C++, Docker, Java and exploring computer science fundamentals.**
 - ⚡ Crossing the bridge from **financial audit** to **software development**, came by the opportunity, stayed by the challenge.     
 - 🎯 Goal: Build efficient, scalable, and maintainable software.
